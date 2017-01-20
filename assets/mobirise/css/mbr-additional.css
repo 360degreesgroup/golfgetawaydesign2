@@ -1,0 +1,26 @@
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
+
+#menu-1 .navbar-toggler {
+  color: #000;
+}
+#header1-0 H1 {
+  color: #001800;
+  font-size: 60px;
+  font-family: 'Playfair Display', sans-serif;
+}
+#content5-2 .mbr-section-title {
+  text-align: center;
+  color: #ffffff;
+}
+#content5-2 P {
+  color: #ffffff;
+}
+#features1-c H4 {
+  color: #000000;
+}
+#features1-c P {
+  color: #000000;
+}
+#content5-8 .mbr-section-title {
+  text-align: center;
+}
